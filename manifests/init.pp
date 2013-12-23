@@ -1,0 +1,2 @@
+class cyrus_sasl {
+}
